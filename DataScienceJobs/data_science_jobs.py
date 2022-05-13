@@ -13,7 +13,7 @@ import sweetviz
 
 
 # Data Import
-uc_data = pd.read_csv('archive/DataScientist.csv')
+uc_data = pd.read_csv('DataScientist.csv')
 
 
 # Data Overview
