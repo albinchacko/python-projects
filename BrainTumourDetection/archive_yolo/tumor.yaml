@@ -1,0 +1,6 @@
+train: /content/archive_yolo/images/Train  
+val: /content/archive_yolo/images/Val  
+
+# Classes
+nc: 3  # number of classes
+names: ['glioma', 'meningioma', 'pituitary']  
