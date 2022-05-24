@@ -4,7 +4,7 @@ This repository contains my personal projects done using python programming lang
 
 Projects in this repository:-
 
-I.    Data Scientist jobs analysis
+I.    Data Science jobs analysis
 
 II.   SQL Database operation (Using sqlite3)
 
